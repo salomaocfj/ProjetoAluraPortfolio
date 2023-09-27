@@ -117,6 +117,7 @@ strong {
 }
 
 .apresentacao__links__navegacao:hover {
+    transition: 1s;
     background-color: var(--cor-base-hover);
     font-family: var(--fonte-hover);
     font-weight: 400;
